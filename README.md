@@ -29,8 +29,6 @@ This backend is focused on search movies with Name, Year, Type, Genre, and final
       "genero": "Science Fiction"
     }
 
-That's it, Good luck!
-
 ### Contributors
 
 |Aportantes    | Aportaciones                                                                                                                                             |
