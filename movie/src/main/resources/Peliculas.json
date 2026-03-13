@@ -1,0 +1,86 @@
+[
+  {
+    "titulo": "Inception",
+    "anio": "2010",
+    "tipo": "Movie",
+    "genero": "Science Fiction"
+  },
+  {
+    "titulo": "The Office",
+    "anio": "2005",
+    "tipo": "Serie",
+    "genero": "Comedy"
+  },
+  {
+    "titulo": "The Dark Knight",
+    "anio": "2008",
+    "tipo": "Movie",
+    "genero": "Action"
+  },
+  {
+    "titulo": "Stranger Things",
+    "anio": "2016",
+    "tipo": "Serie",
+    "genero": "Science Fiction"
+  },
+  {
+    "titulo": "Titanic",
+    "anio": "1997",
+    "tipo": "Movie",
+    "genero": "Romance Thriller"
+  },
+  {
+    "titulo": "The Conjuring",
+    "anio": "2013",
+    "tipo": "Movie",
+    "genero": "Horror"
+  },
+  {
+    "titulo": "Breaking Bad",
+    "anio": "2008",
+    "tipo": "Serie",
+    "genero": "Drama"
+  },
+  {
+    "titulo": "Spirited Away",
+    "anio": "2001",
+    "tipo": "Movie",
+    "genero": "Animation"
+  },
+  {
+    "titulo": "Spider-Man: Into the Spider-Verse",
+    "anio": "2018",
+    "tipo": "Movie",
+    "genero": "Animation"
+  },
+  {
+    "titulo": "Friends",
+    "anio": "1994",
+    "tipo": "Serie",
+    "genero": "Comedy"
+  },
+  {
+    "titulo": "Interstellar",
+    "anio": "2014",
+    "tipo": "Movie",
+    "genero": "Science Fiction"
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "anio": "2019",
+    "tipo": "Movie",
+    "genero": "Action"
+  },
+  {
+    "titulo": "The Notebook",
+    "anio": "2004",
+    "tipo": "Movie",
+    "genero": "Romance Thriller"
+  },
+  {
+    "titulo": "The Haunting of Hill House",
+    "anio": "2018",
+    "tipo": "Serie",
+    "genero": "Horror"
+  }
+]

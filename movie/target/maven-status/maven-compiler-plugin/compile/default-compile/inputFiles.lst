@@ -1,0 +1,7 @@
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/MovieApplication.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/config/CorsConfig.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/controller/FormController.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/BusquedaRequest.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/BusquedaResponse.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/Pelicula.java
+/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/services/FormService.java
