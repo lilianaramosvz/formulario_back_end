@@ -4,6 +4,8 @@
 
 - [What does this backend?](#What-does-this-backend?)
 - [How can I run it?](#How-can-I-run-it?)
+- [Hown can I apply the requests?](#Hown-can-I-apply-the-requests?)
+- [Contributors](#Contributors)
 
 ### What does this backend?
 
@@ -28,3 +30,10 @@ This backend is focused on search movies with Name, Year, Type, Genre, and final
     }
 
 That's it, Good luck!
+
+### Contributors
+
+|Aportantes    | Aportaciones                                                                                                                                             |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diana        | FormService (lectura de JSON y filtros con Streams), Creacion del registro o almacen de peliculas (Peliculas.json), ajustes en pom.xml para dependencias |
+| Sammy        | Contruccion DTO (Pelicula, BusquedaRequest y BusquedaResponse), Creacion de FormController y exposicion del endpoint por POST                            |
