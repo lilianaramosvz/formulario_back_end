@@ -7,7 +7,6 @@ package com.search.movie.controller;
 import com.search.movie.dto.BusquedaRequest;
 import com.search.movie.dto.BusquedaResponse;
 import com.search.movie.services.FormService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -22,11 +21,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/movies")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "*")
 public class FormController {
     private final FormService formService;
     
-    @Autowired
     public FormController(FormService formService){
         this.formService = formService;
     }

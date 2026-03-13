@@ -1,7 +1,7 @@
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/MovieApplication.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/config/CorsConfig.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/controller/FormController.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/BusquedaRequest.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/BusquedaResponse.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/dto/Pelicula.java
-/home/sammy/Downloads/formulario_back_end/movie/src/main/java/com/search/movie/services/FormService.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\config\CorsConfig.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\controller\FormController.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\dto\BusquedaRequest.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\dto\BusquedaResponse.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\dto\Pelicula.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\MovieApplication.java
+C:\Users\lilia\Documents\GITHUB\formulario_back_end\movie\src\main\java\com\search\movie\services\FormService.java
