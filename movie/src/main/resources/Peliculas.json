@@ -1,86 +1,44 @@
 [
-  {
-    "titulo": "Inception",
-    "anio": "2010",
-    "tipo": "Movie",
-    "genero": "Science Fiction"
-  },
-  {
-    "titulo": "The Office",
-    "anio": "2005",
-    "tipo": "Serie",
-    "genero": "Comedy"
-  },
-  {
-    "titulo": "The Dark Knight",
-    "anio": "2008",
-    "tipo": "Movie",
-    "genero": "Action"
-  },
-  {
-    "titulo": "Stranger Things",
-    "anio": "2016",
-    "tipo": "Serie",
-    "genero": "Science Fiction"
-  },
-  {
-    "titulo": "Titanic",
-    "anio": "1997",
-    "tipo": "Movie",
-    "genero": "Romance Thriller"
-  },
-  {
-    "titulo": "The Conjuring",
-    "anio": "2013",
-    "tipo": "Movie",
-    "genero": "Horror"
-  },
-  {
-    "titulo": "Breaking Bad",
-    "anio": "2008",
-    "tipo": "Serie",
-    "genero": "Drama"
-  },
-  {
-    "titulo": "Spirited Away",
-    "anio": "2001",
-    "tipo": "Movie",
-    "genero": "Animation"
-  },
-  {
-    "titulo": "Spider-Man: Into the Spider-Verse",
-    "anio": "2018",
-    "tipo": "Movie",
-    "genero": "Animation"
-  },
-  {
-    "titulo": "Friends",
-    "anio": "1994",
-    "tipo": "Serie",
-    "genero": "Comedy"
-  },
-  {
-    "titulo": "Interstellar",
-    "anio": "2014",
-    "tipo": "Movie",
-    "genero": "Science Fiction"
-  },
-  {
-    "titulo": "Avengers: Endgame",
-    "anio": "2019",
-    "tipo": "Movie",
-    "genero": "Action"
-  },
-  {
-    "titulo": "The Notebook",
-    "anio": "2004",
-    "tipo": "Movie",
-    "genero": "Romance Thriller"
-  },
-  {
-    "titulo": "The Haunting of Hill House",
-    "anio": "2018",
-    "tipo": "Serie",
-    "genero": "Horror"
-  }
+  { "titulo": "Inception", "anio": "2010", "tipo": "Movie", "genero": "Science Fiction" },
+  { "titulo": "The Office", "anio": "2005", "tipo": "Serie", "genero": "Comedy" },
+  { "titulo": "The Dark Knight", "anio": "2008", "tipo": "Movie", "genero": "Action" },
+  { "titulo": "Stranger Things", "anio": "2016", "tipo": "Serie", "genero": "Science Fiction" },
+  { "titulo": "Titanic", "anio": "1997", "tipo": "Movie", "genero": "Romance Thriller" },
+  { "titulo": "The Conjuring", "anio": "2013", "tipo": "Movie", "genero": "Horror" },
+  { "titulo": "Breaking Bad", "anio": "2008", "tipo": "Serie", "genero": "Drama" },
+  { "titulo": "Spirited Away", "anio": "2001", "tipo": "Movie", "genero": "Animation" },
+  { "titulo": "Spider-Man: Into the Spider-Verse", "anio": "2018", "tipo": "Movie", "genero": "Animation" },
+  { "titulo": "Friends", "anio": "1994", "tipo": "Serie", "genero": "Comedy" },
+  { "titulo": "Interstellar", "anio": "2014", "tipo": "Movie", "genero": "Science Fiction" },
+  { "titulo": "Avengers: Endgame", "anio": "2019", "tipo": "Movie", "genero": "Action" },
+  { "titulo": "The Notebook", "anio": "2004", "tipo": "Movie", "genero": "Romance Thriller" },
+  { "titulo": "The Haunting of Hill House", "anio": "2018", "tipo": "Serie", "genero": "Horror" },
+  { "titulo": "Die Hard", "anio": "1988", "tipo": "Movie", "genero": "Action" },
+  { "titulo": "The Boys", "anio": "2019", "tipo": "Serie", "genero": "Action" },
+  { "titulo": "Superbad", "anio": "2007", "tipo": "Movie", "genero": "Comedy" },
+  { "titulo": "Brooklyn Nine-Nine", "anio": "2013", "tipo": "Serie", "genero": "Comedy" },
+  { "titulo": "The Shawshank Redemption", "anio": "1994", "tipo": "Movie", "genero": "Drama" },
+  { "titulo": "Succession", "anio": "2018", "tipo": "Serie", "genero": "Drama" },
+  { "titulo": "Get Out", "anio": "2017", "tipo": "Movie", "genero": "Horror" },
+  { "titulo": "American Horror Story", "anio": "2011", "tipo": "Serie", "genero": "Horror" },
+  { "titulo": "Blade Runner 2049", "anio": "2017", "tipo": "Movie", "genero": "Science Fiction" },
+  { "titulo": "Black Mirror", "anio": "2011", "tipo": "Serie", "genero": "Science Fiction" },
+  { "titulo": "Gone Girl", "anio": "2014", "tipo": "Movie", "genero": "Romance Thriller" },
+  { "titulo": "You", "anio": "2018", "tipo": "Serie", "genero": "Romance Thriller" },
+  { "titulo": "Toy Story", "anio": "1995", "tipo": "Movie", "genero": "Animation" },
+  { "titulo": "Avatar: The Last Airbender", "anio": "2005", "tipo": "Serie", "genero": "Animation" },
+  { "titulo": "Mad Max: Fury Road", "anio": "2015", "tipo": "Movie", "genero": "Action" },
+  { "titulo": "Peaky Blinders", "anio": "2013", "tipo": "Serie", "genero": "Drama" },
+  { "titulo": "The Hangover", "anio": "2009", "tipo": "Movie", "genero": "Comedy" },
+  { "titulo": "Hereditary", "anio": "2018", "tipo": "Movie", "genero": "Horror" },
+  { "titulo": "Dune", "anio": "2021", "tipo": "Movie", "genero": "Science Fiction" },
+  { "titulo": "Basic Instinct", "anio": "1992", "tipo": "Movie", "genero": "Romance Thriller" },
+  { "titulo": "Arcane", "anio": "2021", "tipo": "Serie", "genero": "Animation" },
+  { "titulo": "The Wire", "anio": "2002", "tipo": "Serie", "genero": "Drama" },
+  { "titulo": "John Wick", "anio": "2014", "tipo": "Movie", "genero": "Action" },
+  { "titulo": "Parks and Recreation", "anio": "2009", "tipo": "Serie", "genero": "Comedy" },
+  { "titulo": "A Nightmare on Elm Street", "anio": "1984", "tipo": "Movie", "genero": "Horror" },
+  { "titulo": "The Expanse", "anio": "2015", "tipo": "Serie", "genero": "Science Fiction" },
+  { "titulo": "Outlander", "anio": "2014", "tipo": "Serie", "genero": "Romance Thriller" },
+  { "titulo": "Rick and Morty", "anio": "2013", "tipo": "Serie", "genero": "Animation" }
 ]
